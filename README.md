@@ -78,3 +78,13 @@ Output:
 - Có 5 test trong `tests/`.
 - Có ít nhất 1 file log minh chứng trong `logs/`.
 
+## 5. An toàn sử dụng
+
+Dự án này chỉ phục vụ mục đích học tập.
+
+Người dùng cần:
+- Bảo vệ dữ liệu cá nhân
+- Không sử dụng hệ thống cho mục đích trái phép
+- Không truy cập trái phép vào dữ liệu của người khác
+
+Mọi thông tin nhạy cảm cần được bảo mật an toàn.
